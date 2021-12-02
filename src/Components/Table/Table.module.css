@@ -1,0 +1,25 @@
+
+table{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+td,th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+td button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+td button:hover{
+    background-color: gray;
+}

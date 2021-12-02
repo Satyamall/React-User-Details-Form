@@ -1,0 +1,60 @@
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.dept{
+  font-size: 25px;
+  font-weight: 600;
+  display: flex;
+  flex: 3;
+  gap: 1rem;
+}
+
+.dept button{
+  background-color: gray;
+  color: white;
+  font-size: 15px;
+}
+
+.dept button:hover{
+  background-color: black;
+}
+
+.sort{
+  margin-top: 20px;
+  font-size: 25px;
+  font-weight: 600;
+  display: flex;
+  flex: 3;
+  gap: 1rem;
+}
+
+.sort button{
+  background-color: rebeccapurple;
+  color: white;
+  font-size: 15px;
+}
+
+.sort button:hover{
+  background-color: black;
+}
+
+.page{
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  font-size: 25px;
+}
+
+.page button{
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+}

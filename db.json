@@ -1,0 +1,63 @@
+{
+  "employeeDetails": [
+    {
+      "name": "Satya",
+      "age": "21",
+      "address": "Parsauna",
+      "department": "Software Developer",
+      "salary": "200000",
+      "maritalStatus": false,
+      "image": "blob:http://localhost:3001/11b97866-48cb-452c-955f-331930494ece",
+      "id": 1
+    },
+    {
+      "name": "Jaswant",
+      "age": "22",
+      "address": "Siddharth Nagar",
+      "department": "Back-End Developer",
+      "salary": "250000",
+      "maritalStatus": false,
+      "image": "blob:http://localhost:3001/77003914-40e8-4262-94c0-1f4b87549b3a",
+      "id": 2
+    },
+    {
+      "name": "Satya Prakash Mall",
+      "age": "21",
+      "address": "Kushinagar",
+      "department": "CEO",
+      "salary": "300000",
+      "maritalStatus": false,
+      "image": "blob:http://localhost:3001/8c53f938-f3da-4527-805f-8820c984d3d9",
+      "id": 3
+    },
+    {
+      "name": "ABC",
+      "age": "25",
+      "address": "xyz",
+      "department": "Director",
+      "salary": "23467123",
+      "maritalStatus": false,
+      "image": null,
+      "id": 4
+    },
+    {
+      "name": "Anuska",
+      "age": "20",
+      "address": "Basti",
+      "department": "Front-End Developer",
+      "salary": "49999",
+      "image": "blob:http://localhost:3001/0be73f91-1c5e-43e9-b621-3d9a26432fb1",
+      "id": 6
+    },
+    {
+      "name": "Suzuki",
+      "age": "30",
+      "address": "weiufewuiogf",
+      "department": "Back-End Developer",
+      "salary": "250034",
+      "maritalStatus": true,
+      "image": "blob:http://localhost:3001/5e7d016e-a983-469d-95d0-272d09ba9d45",
+      "id": 7
+    }
+  ]
+}
